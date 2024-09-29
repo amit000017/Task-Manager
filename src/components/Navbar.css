@@ -1,0 +1,24 @@
+body{
+    background-color: cyan;
+}
+
+li{
+    list-style-type: none;
+    font-size: large;
+    font-weight:bold;
+    cursor: pointer;
+   
+}
+li:hover{
+    font-weight:900px;
+    text-decoration: underline;
+}
+
+ul{
+    gap: 34px;
+    display: flex;
+    padding-left: 1700px;
+    align-items: center;
+    
+
+}
